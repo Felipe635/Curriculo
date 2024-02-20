@@ -1,10 +1,6 @@
 .sobre{
+    padding: 15px;
     background-color: #FFEBD2;
     height: 100vh;
     text-align: center;
-}
-
-.img2{
-    float: left; /* faz o objeto flutuar para um determinado lugar (left, right...) e os outros conteudos ocupam o lugar que sobre ao seu lado  */
-    width: 70px;
 }
